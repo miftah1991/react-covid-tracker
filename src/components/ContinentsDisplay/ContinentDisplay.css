@@ -1,0 +1,28 @@
+.MapImg {
+  width: 100px;
+  height: auto;
+  align-self: center;
+}
+
+.name {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+
+.number {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.info {
+  align-self: center;
+}
+
+.arrow {
+  width: 25px;
+  height: auto;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}

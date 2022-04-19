@@ -3,14 +3,14 @@ import {
 } from 'redux';
 import thunk from 'redux-thunk';
 
-const reducer1 = {};
-const reducer2 = {};
+import dashboardReducer from './dashboard/dashboardReducer';
+import continentsReducer from './continents/continentsReducer';
 
 /* eslint-disable no-underscore-dangle */
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
 
-const rootReducer = combineReducers({ reducer1, reducer2 });
+const rootReducer = combineReducers({ allTime: dashboardReducer, continents: continentsReducer });
 const store = createStore(rootReducer, composeEnhancers(applyMiddleware(thunk)));
 
 export default store;

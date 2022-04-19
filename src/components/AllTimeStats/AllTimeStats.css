@@ -1,0 +1,17 @@
+.dashboard {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 15px;
+  margin: 20px 0;
+}
+
+.stat {
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.stat__number {
+  font-size: 2rem;
+  font-weight: bold;
+}

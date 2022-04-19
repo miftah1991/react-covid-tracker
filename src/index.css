@@ -1,3 +1,19 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Lato');
+
+* {
+  box-sizing: border-box;
   margin: 0;
+  padding: 0;
+}
+
+:root {
+  --pink: #ec4c8a;
+  --dark-pink: #df4782;
+  --lato: 'Lato', sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: var(--lato);
+  background-color: var(--pink);
 }
