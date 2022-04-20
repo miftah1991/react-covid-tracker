@@ -1,0 +1,127 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot of homepage 1`] = `
+Array [
+  <div
+    className="navbar"
+  >
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <img
+        alt="Home"
+        className="navbar__img"
+        src="home.svg"
+      />
+    </a>
+    <h1
+      className="navbar__title"
+    >
+      covid-19 stats
+    </h1>
+    <img
+      alt="search"
+      className="navbar__img"
+      src="searchicon.svg"
+    />
+  </div>,
+  <div
+    className="mapDiv"
+  >
+    <iframe
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+      allowFullScreen={true}
+      className="map"
+      frameBorder="0"
+      src="https://coronavirus.app/map?embed=true"
+      title="covid map"
+    />
+  </div>,
+  <h2
+    className="title"
+  >
+    ALL TIME STATS
+  </h2>,
+  <div>
+    <div
+      className="dashboard"
+    >
+      <div
+        className="stat"
+      >
+        <span
+          className="stat__number"
+        >
+          NaN
+        </span>
+        <br />
+        active cases
+      </div>
+      <div
+        className="stat"
+      >
+        <span
+          className="stat__number"
+        >
+          NaN
+        </span>
+        <br />
+        today cases
+      </div>
+      <div
+        className="stat"
+      >
+        <span
+          className="stat__number"
+        >
+          NaN
+        </span>
+        <br />
+        today deaths
+      </div>
+      <div
+        className="stat"
+      >
+        <span
+          className="stat__number"
+        >
+          NaN
+        </span>
+        <br />
+        total cases
+      </div>
+      <div
+        className="stat"
+      >
+        <span
+          className="stat__number"
+        >
+          NaN
+        </span>
+        <br />
+        total deaths
+      </div>
+      <div
+        className="stat"
+      >
+        <span
+          className="stat__number"
+        >
+          NaN
+        </span>
+        <br />
+        total tests
+      </div>
+    </div>
+  </div>,
+  <h2
+    className="title"
+  >
+    STATS BY CONTINENT
+  </h2>,
+  <div
+    className="continents"
+  />,
+]
+`;
