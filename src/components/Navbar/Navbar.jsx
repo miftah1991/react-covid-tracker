@@ -8,12 +8,12 @@ import home from '../../images/home.svg';
 function Navbar({ pageTo }) {
   switch (pageTo) {
     case 'No':
-      return <div>Nop</div>;
+      return <div>No</div>;
     default:
       return (
         <div className="navbar">
           <Link to="/"><img className="navbar__img" src={home} alt="Home" /></Link>
-          <h1 className="navbar__title">covid-19 stats</h1>
+          <h1 className="navbar__title">COVID-19 stats</h1>
           <img className="navbar__img" src={search} alt="search" />
         </div>
       );

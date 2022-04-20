@@ -18,7 +18,7 @@ Array [
     <h1
       className="navbar__title"
     >
-      covid-19 stats
+      COVID-19 stats
     </h1>
     <img
       alt="search"
