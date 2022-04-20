@@ -1,3 +1,5 @@
+// Action Creators
+
 export const fetchAllTimeData = () => async (dispatch) => {
   await fetch('https://corona.lmao.ninja/v2/all?yesterday')
     .then((res) => res.json())

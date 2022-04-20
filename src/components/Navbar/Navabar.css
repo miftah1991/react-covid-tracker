@@ -1,0 +1,18 @@
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 20px 0;
+  max-width: 100%;
+}
+
+.navbar__img {
+  width: 30px;
+  height: auto;
+}
+
+.navbar__title {
+  color: white;
+  font-weight: 200;
+}

@@ -5,8 +5,7 @@ import store from './Redux/storeSetUp';
 import './index.css';
 import App from './App';
 
-const root = createRoot(document.getElementById('root'));
-root.render(
+createRoot(document.getElementById('root')).render(
   <Provider store={store}>
     <App />
   </Provider>,

@@ -2,7 +2,6 @@ import {
   combineReducers, createStore, applyMiddleware, compose,
 } from 'redux';
 import thunk from 'redux-thunk';
-
 import dashboardReducer from './dashboard/dashboardReducer';
 import continentsReducer from './continents/continentsReducer';
 
