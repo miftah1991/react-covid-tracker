@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-covid-tracker/static/css/main.4a05920a.css",
+    "main.js": "/react-covid-tracker/static/js/main.02201467.js",
+    "static/css/582.180588b3.chunk.css": "/react-covid-tracker/static/css/582.180588b3.chunk.css",
+    "static/js/582.1a350476.chunk.js": "/react-covid-tracker/static/js/582.1a350476.chunk.js",
+    "static/css/634.e55f05f7.chunk.css": "/react-covid-tracker/static/css/634.e55f05f7.chunk.css",
+    "static/js/634.3602b28b.chunk.js": "/react-covid-tracker/static/js/634.3602b28b.chunk.js",
+    "static/js/644.3324e263.chunk.js": "/react-covid-tracker/static/js/644.3324e263.chunk.js",
+    "static/media/asia.svg": "/react-covid-tracker/static/media/asia.7b7873e863fe6f28185b845c1dc965a1.svg",
+    "static/media/northAmerica.svg": "/react-covid-tracker/static/media/northAmerica.7dc8860e4a005e4c58f99eb5686d23a7.svg",
+    "static/media/europe.svg": "/react-covid-tracker/static/media/europe.1077bea7a0a98c9cd2fd2f22c3f51655.svg",
+    "static/media/oceania.svg": "/react-covid-tracker/static/media/oceania.d1839f860e7d83441e23ad9c3f38afea.svg",
+    "static/media/southAmerica.svg": "/react-covid-tracker/static/media/southAmerica.98af70d4aab747816f2165173dc63694.svg",
+    "static/media/africa.svg": "/react-covid-tracker/static/media/africa.494d0af81ba1e0820527744c6418902f.svg",
+    "static/media/home.svg": "/react-covid-tracker/static/media/home.6a446fa4cf97e52af487232ab459c74f.svg",
+    "static/media/arrow-right.svg": "/react-covid-tracker/static/media/arrow-right.e78d29f933a7aae631e5c8f16292eb3e.svg",
+    "static/media/searchicon.svg": "/react-covid-tracker/static/media/searchicon.78fe6735ffb2ef770ba604ae0a1569b5.svg",
+    "index.html": "/react-covid-tracker/index.html",
+    "main.4a05920a.css.map": "/react-covid-tracker/static/css/main.4a05920a.css.map",
+    "main.02201467.js.map": "/react-covid-tracker/static/js/main.02201467.js.map",
+    "582.180588b3.chunk.css.map": "/react-covid-tracker/static/css/582.180588b3.chunk.css.map",
+    "582.1a350476.chunk.js.map": "/react-covid-tracker/static/js/582.1a350476.chunk.js.map",
+    "634.e55f05f7.chunk.css.map": "/react-covid-tracker/static/css/634.e55f05f7.chunk.css.map",
+    "634.3602b28b.chunk.js.map": "/react-covid-tracker/static/js/634.3602b28b.chunk.js.map",
+    "644.3324e263.chunk.js.map": "/react-covid-tracker/static/js/644.3324e263.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a05920a.css",
+    "static/js/main.02201467.js"
+  ]
+}
