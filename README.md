@@ -11,6 +11,7 @@
 - CSS3
 - Jest
 - JavaScript
+- Jest
 
 ## Live Demo
 
