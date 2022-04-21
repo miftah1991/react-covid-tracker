@@ -15,7 +15,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://miftah1991.github.io/react-covid-tracker/)
+[Live Demo Link](https://nimble-cendol-7a4279.netlify.app/)
 
 
 ## Authors
