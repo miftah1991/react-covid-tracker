@@ -1,0 +1,29 @@
+.countryWrapper {
+  width: 50vw;
+  max-width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px 0;
+}
+
+.countryFlag {
+  width: 100px;
+  height: auto;
+  margin: 0 auto 10px auto;
+}
+
+.countryInfo {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.countryInfo span {
+  font-weight: 200;
+}
+
+div [color="true"] {
+  background-color: var(--dark-pink);
+}

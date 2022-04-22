@@ -1,31 +1,55 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://wakatime.com/badge/user/be79098d-c59e-407c-8952-0f274bb9e265/project/c8c5912d-d823-44a6-9418-52768d49728b.svg)
+
+# Covid Tracker
+
+> A web application which designed to automatically alert people to whether they are at high risk of having the virus.
+## Technologies used
+
+- React
+- HTML5
+- CSS3
+- Jest
+- JavaScript
+- Jest
+
+## Live Demo
+
+[Live Demo Link](https://nimble-cendol-7a4279.netlify.app/)
+
+
+## Authors
+
+👤 **Miftah Amin**
+
+- GitHub: [@miftah1991](https://github.com/miftah1991)
+- Twitter: [@miftah_1991](https://twitter.com/miftah_1991)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/estebanmual)
+
+## Getting Started
+
+### Setup
+
+  - Open terminal
+  - Change the directory then run the following:
+    - `git@github.com:miftah1991/react-covid-tracker.git`
+  - cd repo-name/
+
+### Install
+
+  - Run  `npm install` on the root directory of your project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+@@ -14,6 +62,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+@@ -29,42 +84,22 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
@@ -52,19 +76,30 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🤝 Contributing
 
 ### Making a Progressive Web App
+Contributions, issues, and feature requests are welcome!
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Feel free to check the [issues page](../../issues/).
 
 ### Advanced Configuration
+## Show your support
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Give a ⭐️ if you like this project!
 
 ### Deployment
+## Acknowledgments
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- Data provided by [NovelCOVID API](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#84689601-77bd-4992-a8a7-0db57be29402).
+- Original design by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio).
+- 
 
 ### `npm run build` fails to minify
+## 📝 License
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is [MIT](./MIT.md) licensed.
